@@ -5,11 +5,6 @@
 using namespace std;
 
 int main() {
-    int dial[100];
-    for (int i = 0; i < 100; ++i) {
-        dial[i] = i;
-    }
-
     int pointer = 50;
     int counter = 0;
 
